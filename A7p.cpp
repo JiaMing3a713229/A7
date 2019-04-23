@@ -9,7 +9,7 @@ int main(void){
 	int word_num[2]={0,0};  //word_num[0]纗程瞷Ω计
 							//word_num[1]纗璸计讽じ瞷Ω计 
 	int str_num=0;          //Τ痻皚 
-	int i,j,k;              //癹伴ㄏノ 
+	int i,j;              //癹伴ㄏノ 
 	int same_word=1;        //璸计じ狡Ω计
 	 
 	printf("叫块100﹃:");
